@@ -1,0 +1,1898 @@
+---- Opened the serial port COM6 ----
+Battery Read Count: 0
+Cooker not charging...
+
+Battery Read Count: 80000
+Cooker not charging...
+
+Battery Read Count: 160000
+Cooker not charging...
+
+Battery Read Count: 240000
+Cooker not charging...
+
+Battery Read Count: 320000
+Cooker not charging...
+
+Battery Read Count: 400000
+Cooker not charging...
+
+Battery Read Count: 480000
+Cooker not charging...
+
+Battery Read Count: 560000
+Cooker not charging...
+
+Battery Read Count: 640000
+Cooker not charging...
+
+Battery Read Count: 720000
+Cooker not charging...
+
+Battery Read Count: 800000
+Cooker not charging...
+
+Battery Read Count: 880000
+Cooker not charging...
+
+Battery Read Count: 960000
+Cooker not charging...
+
+Battery Read Count: 1040000
+Cooker not charging...
+
+Battery Read Count: 1120000
+Cooker not charging...
+
+Battery Read Count: 1200000
+Cooker not charging...
+
+Battery Read Count: 1280000
+Cooker not charging...
+
+Battery Read Count: 1360000
+Cooker not charging...
+
+Battery Read Count: 1405227
+Cooker not charging...
+
+
+Coil 1 Level: 0
+Coil 2 Level: 1
+
+Coil 2 FIRED !!!
+At: 0
+Battery Read Count: 1440000
+Cooker not charging...
+
+Battery Read Count: 1454495
+Cooker not charging...
+
+
+Coil 1 Level: 0
+Coil 2 Level: 2
+
+Battery Read Count: 1480000
+Cooker not charging...
+
+Battery Read Count: 1520000
+Cooker not charging...
+
+Battery Read Count: 1560000
+Cooker not charging...
+
+Battery Read Count: 1600000
+Cooker not charging...
+
+Battery Read Count: 1640000
+Cooker not charging...
+
+Battery Read Count: 1680000
+Cooker not charging...
+
+Battery Read Count: 1720000
+Cooker not charging...
+
+Battery Read Count: 1760000
+Cooker not charging...
+
+Battery Read Count: 1800000
+Cooker not charging...
+
+Battery Read Count: 1840000
+Cooker not charging...
+
+Battery Read Count: 1880000
+Cooker charging...
+
+Battery Read Count: 1920000
+Cooker charging...
+
+Battery Read Count: 1958922
+Cooker charging...
+
+
+Coil 1 Level: 0
+Coil 2 Level: 3
+
+Battery Read Count: 1960000
+Cooker charging...
+
+Battery Read Count: 2000000
+Cooker charging...
+
+Battery Read Count: 2021462
+Actual Voltage: 12.580
+Cooker charging...
+
+
+Coil 1 Level: 0
+Coil 2 Level: 4
+
+Battery Read Count: 2031534
+Actual Voltage: 12.603
+Cooker charging...
+
+
+Coil 1 Level: 0
+Coil 2 Level: 5
+
+Battery Read Count: 2040000
+Actual Voltage: 12.534
+Cooker charging...
+
+Battery Read Count: 2080000
+Actual Voltage: 12.786
+Cooker charging...
+
+Battery Read Count: 2120000
+Actual Voltage: 12.639
+Cooker charging...
+
+Battery Read Count: 2160000
+Actual Voltage: 12.960
+Cooker charging...
+
+Battery Read Count: 2200000
+Actual Voltage: 12.743
+Cooker charging...
+
+Battery Read Count: 2240000
+Actual Voltage: 12.768
+Cooker charging...
+
+Battery Read Count: 2280000
+Actual Voltage: 12.847
+Cooker charging...
+
+Battery Read Count: 2320000
+Actual Voltage: 12.859
+Cooker charging...
+
+Battery Read Count: 2360000
+Actual Voltage: 12.894
+Cooker charging...
+
+Battery Read Count: 2400000
+Actual Voltage: 12.819
+Cooker charging...
+
+Battery Read Count: 2440000
+Actual Voltage: 12.631
+Cooker charging...
+
+Battery Read Count: 2480000
+Actual Voltage: 12.668
+Cooker charging...
+
+Battery Read Count: 2520000
+Actual Voltage: 12.896
+Cooker charging...
+
+Battery Read Count: 2560000
+Actual Voltage: 12.526
+Cooker charging...
+
+Battery Read Count: 2600000
+Actual Voltage: 12.487
+Cooker charging...
+
+Battery Read Count: 2640000
+Actual Voltage: 12.855
+Cooker charging...
+
+Battery Read Count: 2680000
+Actual Voltage: 12.651
+Cooker charging...
+
+Battery Read Count: 2720000
+Actual Voltage: 12.805
+Cooker charging...
+
+Battery Read Count: 2760000
+Actual Voltage: 12.885
+Cooker charging...
+
+Battery Read Count: 2800000
+Actual Voltage: 12.899
+Cooker charging...
+
+Battery Read Count: 2840000
+Actual Voltage: 12.864
+Cooker charging...
+
+Battery Read Count: 2880000
+Actual Voltage: 12.636
+Cooker charging...
+
+Battery Read Count: 2920000
+Actual Voltage: 12.794
+Cooker charging...
+
+Battery Read Count: 2960000
+Actual Voltage: 12.723
+Cooker charging...
+
+Battery Read Count: 3000000
+Actual Voltage: 12.693
+Cooker charging...
+
+Battery Read Count: 3040000
+Actual Voltage: 12.364
+Cooker charging...
+
+Battery Read Count: 3080000
+Actual Voltage: 11.033
+Cooker charging...
+
+Battery Read Count: 3120000
+Actual Voltage: 10.978
+Cooker charging...
+
+Battery Read Count: 3160000
+Actual Voltage: 11.022
+Cooker charging...
+
+Battery Read Count: 3200000
+Actual Voltage: 10.933
+Cooker charging...
+
+Battery Read Count: 3240000
+Actual Voltage: 11.016
+Cooker charging...
+
+Battery Read Count: 3280000
+Actual Voltage: 10.993
+Cooker charging...
+
+Battery Read Count: 3320000
+Actual Voltage: 10.988
+Cooker charging...
+
+Battery Read Count: 3360000
+Actual Voltage: 10.996
+Cooker charging...
+
+Battery Read Count: 3400000
+Actual Voltage: 11.001
+Cooker charging...
+
+Battery Read Count: 3440000
+Actual Voltage: 11.014
+Cooker charging...
+
+Battery Read Count: 3480000
+Actual Voltage: 11.021
+Cooker charging...
+
+Battery Read Count: 3520000
+Actual Voltage: 11.088
+Cooker charging...
+
+Battery Read Count: 3560000
+Actual Voltage: 11.059
+Cooker charging...
+
+Battery Read Count: 3600000
+Actual Voltage: 11.009
+Cooker charging...
+
+Battery Read Count: 3640000
+Actual Voltage: 11.046
+Cooker charging...
+
+Battery Read Count: 3680000
+Actual Voltage: 12.587
+Cooker charging...
+
+Battery Read Count: 3720000
+Actual Voltage: 12.512
+Cooker charging...
+
+Battery Read Count: 3760000
+Actual Voltage: 12.300
+Cooker charging...
+
+Battery Read Count: 3800000
+Actual Voltage: 12.470
+Cooker charging...
+
+Battery Read Count: 3840000
+Actual Voltage: 12.464
+Cooker charging...
+
+Battery Read Count: 3880000
+Actual Voltage: 12.528
+Cooker charging...
+
+Battery Read Count: 3920000
+Actual Voltage: 11.910
+Cooker charging...
+
+Battery Read Count: 3960000
+Actual Voltage: 11.463
+Cooker charging...
+
+Battery Read Count: 4000000
+Actual Voltage: 11.608
+Cooker charging...
+
+Battery Read Count: 4040000
+Actual Voltage: 12.607
+Cooker charging...
+
+Battery Read Count: 4080000
+Actual Voltage: 12.566
+Cooker charging...
+
+Battery Read Count: 4120000
+Actual Voltage: 12.662
+Cooker charging...
+
+Battery Read Count: 4160000
+Actual Voltage: 12.703
+Cooker charging...
+
+Battery Read Count: 4200000
+Actual Voltage: 13.003
+Cooker charging...
+
+Battery Read Count: 4240000
+Actual Voltage: 12.773
+Cooker charging...
+
+Battery Read Count: 4280000
+Actual Voltage: 12.936
+Cooker charging...
+
+Battery Read Count: 4320000
+Actual Voltage: 12.651
+Cooker charging...
+
+Battery Read Count: 4360000
+Actual Voltage: 12.947
+Cooker charging...
+
+Battery Read Count: 4400000
+Actual Voltage: 12.730
+Cooker charging...
+
+Battery Read Count: 4440000
+Actual Voltage: 12.985
+Cooker charging...
+
+Battery Read Count: 4480000
+Actual Voltage: 12.890
+Cooker charging...
+
+Battery Read Count: 4520000
+Actual Voltage: 12.808
+Cooker charging...
+
+Battery Read Count: 4560000
+Actual Voltage: 13.215
+Cooker charging...
+
+Battery Read Count: 4600000
+Actual Voltage: 12.871
+Cooker charging...
+
+Battery Read Count: 4640000
+Actual Voltage: 13.110
+Cooker charging...
+
+Battery Read Count: 4680000
+Actual Voltage: 13.169
+Cooker charging...
+
+Battery Read Count: 4720000
+Actual Voltage: 12.921
+Cooker charging...
+
+Battery Read Count: 4760000
+Actual Voltage: 12.971
+Cooker charging...
+
+Battery Read Count: 4800000
+Actual Voltage: 12.872
+Cooker charging...
+
+Battery Read Count: 4840000
+Actual Voltage: 12.886
+Cooker charging...
+
+Battery Read Count: 4880000
+Actual Voltage: 13.328
+Cooker charging...
+
+Battery Read Count: 4920000
+Actual Voltage: 13.119
+Cooker charging...
+
+Battery Read Count: 4960000
+Actual Voltage: 12.886
+Cooker charging...
+
+Battery Read Count: 5000000
+Actual Voltage: 13.066
+Cooker charging...
+
+Battery Read Count: 5027924
+Actual Voltage: 13.298
+Cooker charging...
+
+
+Coil 1 Level: 1
+Coil 2 Level: 5
+
+Coil 1FIRED !!!
+At: 97
+Fan 1 Speed: 20
+Battery Read Count: 5040000
+Actual Voltage: 12.922
+Cooker charging...
+
+Battery Read Count: 5080000
+Actual Voltage: 12.909
+Cooker charging...
+
+Battery Read Count: 5120000
+Actual Voltage: 13.280
+Cooker charging...
+
+Battery Read Count: 5160000
+Actual Voltage: 13.275
+Cooker charging...
+
+Battery Read Count: 5200000
+Actual Voltage: 13.063
+Cooker charging...
+
+Battery Read Count: 5240000
+Actual Voltage: 13.432
+Cooker charging...
+
+Battery Read Count: 5280000
+Actual Voltage: 13.352
+Cooker charging...
+
+Battery Read Count: 5296057
+Actual Voltage: 13.017
+Cooker charging...
+
+
+Coil 1 Level: 2
+Coil 2 Level: 5
+
+Battery Read Count: 5320000
+Actual Voltage: 13.188
+Cooker charging...
+
+Battery Read Count: 5320001
+Actual Voltage: 13.032
+Cooker charging...
+
+
+Coil 1 Level: 3
+Coil 2 Level: 5
+
+Battery Read Count: 5360000
+Actual Voltage: 13.016
+Cooker charging...
+
+Battery Read Count: 5400000
+Actual Voltage: 12.999
+Cooker charging...
+
+Battery Read Count: 5440000
+Actual Voltage: 13.361
+Cooker charging...
+
+Battery Read Count: 5480000
+Actual Voltage: 13.377
+Cooker charging...
+
+Battery Read Count: 5520000
+Actual Voltage: 13.268
+Cooker charging...
+
+Battery Read Count: 5560000
+Actual Voltage: 13.409
+Cooker charging...
+
+Battery Read Count: 5600000
+Actual Voltage: 13.062
+Cooker charging...
+
+Battery Read Count: 5640000
+Actual Voltage: 13.060
+Cooker charging...
+
+Battery Read Count: 5680000
+Actual Voltage: 13.421
+Cooker charging...
+
+Fan 1 Speed: 32
+Battery Read Count: 5720000
+Actual Voltage: 13.448
+Cooker charging...
+
+Battery Read Count: 5760000
+Actual Voltage: 13.103
+Cooker charging...
+
+Battery Read Count: 5800000
+Actual Voltage: 13.056
+Cooker charging...
+
+Battery Read Count: 5840000
+Actual Voltage: 13.500
+Cooker charging...
+
+Battery Read Count: 5880000
+Actual Voltage: 13.477
+Cooker charging...
+
+Battery Read Count: 5920000
+Actual Voltage: 13.350
+Cooker charging...
+
+Battery Read Count: 5960000
+Actual Voltage: 13.158
+Cooker charging...
+
+Battery Read Count: 6000000
+Actual Voltage: 13.406
+Cooker charging...
+
+Battery Read Count: 6040000
+Actual Voltage: 13.254
+Cooker charging...
+
+Battery Read Count: 6080000
+Actual Voltage: 13.447
+Cooker charging...
+
+Battery Read Count: 6120000
+Actual Voltage: 13.338
+Cooker charging...
+
+Battery Read Count: 6160000
+Actual Voltage: 13.530
+Cooker charging...
+
+Battery Read Count: 6200000
+Actual Voltage: 13.135
+Cooker charging...
+
+Battery Read Count: 6240000
+Actual Voltage: 13.112
+Cooker charging...
+
+Battery Read Count: 6280000
+Actual Voltage: 13.578
+Cooker charging...
+
+Battery Read Count: 6320000
+Actual Voltage: 13.357
+Cooker charging...
+
+Fan 1 Speed: 255
+Battery Read Count: 6360000
+Actual Voltage: 13.168
+Cooker charging...
+
+Battery Read Count: 6400000
+Actual Voltage: 13.496
+Cooker charging...
+
+Battery Read Count: 6440000
+Actual Voltage: 13.313
+Cooker charging...
+
+Battery Read Count: 6480000
+Actual Voltage: 13.100
+Cooker charging...
+
+Battery Read Count: 6520000
+Actual Voltage: 13.114
+Cooker charging...
+
+Battery Read Count: 6560000
+Actual Voltage: 13.437
+Cooker charging...
+
+Battery Read Count: 6600000
+Actual Voltage: 13.323
+Cooker charging...
+
+Battery Read Count: 6640000
+Actual Voltage: 13.449
+Cooker charging...
+
+Battery Read Count: 6680000
+Actual Voltage: 13.170
+Cooker charging...
+
+Battery Read Count: 6720000
+Actual Voltage: 13.403
+Cooker charging...
+
+Battery Read Count: 6760000
+Actual Voltage: 13.299
+Cooker charging...
+
+Battery Read Count: 6800000
+Actual Voltage: 13.499
+Cooker charging...
+
+Battery Read Count: 6840000
+Actual Voltage: 13.530
+Cooker charging...
+
+Battery Read Count: 6880000
+Actual Voltage: 13.155
+Cooker charging...
+
+Battery Read Count: 6920000
+Actual Voltage: 13.162
+Cooker charging...
+
+Battery Read Count: 6960000
+Actual Voltage: 13.543
+Cooker charging...
+
+Battery Read Count: 7000000
+Actual Voltage: 12.232
+Cooker charging...
+
+Battery Read Count: 7040000
+Actual Voltage: 11.843
+Cooker charging...
+
+Battery Read Count: 7080000
+Actual Voltage: 11.419
+Cooker charging...
+
+Battery Read Count: 7120000
+Actual Voltage: 11.234
+Cooker charging...
+
+Battery Read Count: 7160000
+Actual Voltage: 11.204
+Cooker charging...
+
+Battery Read Count: 7200000
+Actual Voltage: 11.103
+Cooker charging...
+
+Battery Read Count: 7240000
+Actual Voltage: 11.082
+Cooker charging...
+
+Battery Read Count: 7280000
+Actual Voltage: 11.099
+Cooker charging...
+
+Battery Read Count: 7320000
+Actual Voltage: 11.078
+Cooker charging...
+
+Battery Read Count: 7360000
+Actual Voltage: 12.614
+Cooker charging...
+
+Battery Read Count: 7400000
+Actual Voltage: 12.666
+Cooker charging...
+
+Battery Read Count: 7440000
+Actual Voltage: 13.026
+Cooker charging...
+
+Battery Read Count: 7480000
+Actual Voltage: 13.074
+Cooker charging...
+
+Battery Read Count: 7520000
+Actual Voltage: 12.568
+Cooker charging...
+
+Battery Read Count: 7560000
+Actual Voltage: 12.587
+Cooker charging...
+
+Battery Read Count: 7600000
+Actual Voltage: 11.864
+Cooker charging...
+
+Battery Read Count: 7640000
+Actual Voltage: 11.102
+Cooker charging...
+
+Battery Read Count: 7680000
+Actual Voltage: 11.032
+Cooker charging...
+
+Battery Read Count: 7720000
+Actual Voltage: 10.934
+Cooker charging...
+
+Battery Read Count: 7760000
+Actual Voltage: 10.937
+Cooker charging...
+
+Battery Read Count: 7800000
+Actual Voltage: 10.948
+Cooker charging...
+
+Battery Read Count: 7840000
+Actual Voltage: 10.909
+Cooker charging...
+
+Battery Read Count: 7880000
+Actual Voltage: 10.937
+Cooker charging...
+
+Battery Read Count: 7920000
+Actual Voltage: 10.964
+Cooker charging...
+
+Battery Read Count: 7960000
+Actual Voltage: 10.929
+Cooker charging...
+
+Battery Read Count: 8000000
+Actual Voltage: 10.997
+Cooker charging...
+
+Battery Read Count: 8040000
+Actual Voltage: 11.004
+Cooker charging...
+
+Battery Read Count: 8080000
+Actual Voltage: 11.013
+Cooker charging...
+
+Battery Read Count: 8120000
+Actual Voltage: 12.149
+Cooker charging...
+
+Battery Read Count: 8160000
+Actual Voltage: 12.335
+Cooker charging...
+
+Battery Read Count: 8200000
+Actual Voltage: 12.625
+Cooker charging...
+
+Battery Read Count: 8240000
+Actual Voltage: 12.252
+Cooker charging...
+
+Battery Read Count: 8280000
+Actual Voltage: 12.303
+Cooker charging...
+
+Battery Read Count: 8320000
+Actual Voltage: 12.311
+Cooker charging...
+
+Battery Read Count: 8360000
+Actual Voltage: 12.313
+Cooker charging...
+
+Battery Read Count: 8400000
+Actual Voltage: 12.628
+Cooker charging...
+
+Battery Read Count: 8440000
+Actual Voltage: 12.408
+Cooker charging...
+
+Battery Read Count: 8480000
+Actual Voltage: 12.608
+Cooker charging...
+
+Battery Read Count: 8520000
+Actual Voltage: 12.655
+Cooker charging...
+
+Battery Read Count: 8560000
+Actual Voltage: 12.270
+Cooker charging...
+
+Battery Read Count: 8577626
+Actual Voltage: 12.564
+Cooker charging...
+
+
+Coil 1 Level: 2
+Coil 2 Level: 5
+
+Battery Read Count: 8585611
+Actual Voltage: 12.624
+Cooker charging...
+
+
+Coil 1 Level: 1
+Coil 2 Level: 5
+
+Battery Read Count: 8599707
+Actual Voltage: 12.648
+Cooker charging...
+
+
+Coil 1 Level: 0
+Coil 2 Level: 5
+
+Battery Read Count: 8600000
+Actual Voltage: 12.506
+Cooker charging...
+
+Battery Read Count: 8640000
+Actual Voltage: 12.647
+Cooker charging...
+
+Battery Read Count: 8640963
+Actual Voltage: 12.325
+Cooker charging...
+
+
+Coil 1 Level: 0
+Coil 2 Level: 4
+
+Battery Read Count: 8650159
+Actual Voltage: 12.517
+Cooker charging...
+
+
+Coil 1 Level: 0
+Coil 2 Level: 3
+
+Battery Read Count: 8666810
+Actual Voltage: 12.448
+Cooker charging...
+
+
+Coil 1 Level: 0
+Coil 2 Level: 2
+
+Battery Read Count: 8677194
+Actual Voltage: 12.376
+Cooker charging...
+
+
+Coil 1 Level: 0
+Coil 2 Level: 1
+
+Battery Read Count: 8680000
+Actual Voltage: 12.698
+Cooker charging...
+
+Battery Read Count: 8687011
+Actual Voltage: 12.652
+Cooker charging...
+
+
+Coil 1 Level: 0
+Coil 2 Level: 0
+
+Battery Read Count: 8720000
+Actual Voltage: 12.676
+Cooker charging...
+
+Fan 1 OFF!
+Battery Read Count: 8800000
+Actual Voltage: 12.868
+Cooker charging...
+
+Battery Read Count: 8880000
+Actual Voltage: 13.049
+Cooker charging...
+
+Battery Read Count: 8960000
+Actual Voltage: 13.101
+Cooker charging...
+
+Fan 2 OFF!
+Battery Read Count: 9040000
+Actual Voltage: 13.190
+Cooker charging...
+
+Battery Read Count: 9120000
+Actual Voltage: 13.207
+Cooker charging...
+
+Battery Read Count: 9200000
+Actual Voltage: 13.212
+Cooker charging...
+
+Battery Read Count: 9280000
+Actual Voltage: 13.272
+Cooker charging...
+
+Battery Read Count: 9360000
+Actual Voltage: 13.316
+Cooker charging...
+
+Battery Read Count: 9440000
+Actual Voltage: 13.309
+Cooker charging...
+
+Battery Read Count: 9520000
+Actual Voltage: 13.371
+Cooker charging...
+
+Battery Read Count: 9600000
+Actual Voltage: 13.402
+Cooker charging...
+
+Battery Read Count: 9680000
+Actual Voltage: 13.398
+Cooker charging...
+
+Battery Read Count: 9760000
+Actual Voltage: 13.432
+Cooker charging...
+
+Battery Read Count: 9840000
+Actual Voltage: 13.426
+Cooker charging...
+
+Battery Read Count: 9920000
+Actual Voltage: 13.469
+Cooker charging...
+
+Battery Read Count: 10000000
+Actual Voltage: 13.507
+Cooker charging...
+
+Battery Read Count: 10080000
+Actual Voltage: 13.476
+Cooker charging...
+
+Battery Read Count: 10160000
+Actual Voltage: 13.507
+Cooker charging...
+
+Battery Read Count: 10240000
+Actual Voltage: 13.509
+Cooker charging...
+
+Battery Read Count: 10320000
+Actual Voltage: 13.513
+Cooker charging...
+
+Battery Read Count: 10400000
+Actual Voltage: 13.545
+Cooker charging...
+
+Battery Read Count: 10480000
+Actual Voltage: 13.527
+Cooker charging...
+
+Battery Read Count: 10560000
+Actual Voltage: 13.576
+Cooker charging...
+
+Battery Read Count: 10640000
+Actual Voltage: 13.570
+Cooker charging...
+
+Battery Read Count: 10720000
+Actual Voltage: 13.568
+Cooker charging...
+
+Battery Read Count: 10800000
+Actual Voltage: 13.589
+Cooker charging...
+
+Battery Read Count: 10880000
+Actual Voltage: 13.634
+Cooker charging...
+
+Battery Read Count: 10960000
+Actual Voltage: 13.619
+Cooker charging...
+
+Battery Read Count: 11040000
+Actual Voltage: 13.626
+Cooker charging...
+
+Battery Read Count: 11120000
+Actual Voltage: 13.649
+Cooker charging...
+
+Battery Read Count: 11200000
+Actual Voltage: 13.652
+Cooker charging...
+
+Battery Read Count: 11280000
+Actual Voltage: 13.643
+Cooker charging...
+
+Battery Read Count: 11360000
+Actual Voltage: 13.634
+Cooker charging...
+
+Battery Read Count: 11440000
+Actual Voltage: 13.629
+Cooker charging...
+
+Battery Read Count: 11520000
+Actual Voltage: 13.643
+Cooker charging...
+
+Battery Read Count: 11600000
+Actual Voltage: 13.651
+Cooker charging...
+
+Battery Read Count: 11680000
+Actual Voltage: 13.659
+Cooker charging...
+
+Battery Read Count: 11760000
+Actual Voltage: 13.700
+Cooker charging...
+
+Battery Read Count: 11840000
+Actual Voltage: 13.693
+Cooker charging...
+
+Battery Read Count: 11920000
+Actual Voltage: 13.676
+Cooker charging...
+
+Battery Read Count: 12000000
+Actual Voltage: 13.701
+Cooker charging...
+
+Battery Read Count: 12080000
+Actual Voltage: 13.714
+Cooker charging...
+
+Battery Read Count: 12160000
+Actual Voltage: 13.738
+Cooker charging...
+
+Battery Read Count: 12240000
+Actual Voltage: 13.752
+Cooker charging...
+
+Battery Read Count: 12320000
+Actual Voltage: 13.746
+Cooker charging...
+
+Battery Read Count: 12400000
+Actual Voltage: 13.738
+Cooker charging...
+
+Battery Read Count: 12480000
+Actual Voltage: 13.740
+Cooker charging...
+
+Battery Read Count: 12560000
+Actual Voltage: 13.738
+Cooker charging...
+
+Battery Read Count: 12640000
+Actual Voltage: 13.746
+Cooker charging...
+
+Battery Read Count: 12720000
+Actual Voltage: 13.777
+Cooker charging...
+
+Battery Read Count: 12800000
+Actual Voltage: 13.751
+Cooker charging...
+
+Battery Read Count: 12880000
+Actual Voltage: 13.755
+Cooker charging...
+
+Battery Read Count: 12960000
+Actual Voltage: 13.750
+Cooker charging...
+
+Battery Read Count: 13040000
+Actual Voltage: 13.763
+Cooker charging...
+
+Battery Read Count: 13120000
+Actual Voltage: 13.762
+Cooker charging...
+
+Battery Read Count: 13200000
+Actual Voltage: 13.762
+Cooker charging...
+
+Battery Read Count: 13280000
+Actual Voltage: 13.778
+Cooker charging...
+
+Battery Read Count: 13360000
+Actual Voltage: 13.764
+Cooker charging...
+
+Battery Read Count: 13440000
+Actual Voltage: 13.776
+Cooker charging...
+
+Battery Read Count: 13520000
+Actual Voltage: 13.766
+Cooker charging...
+
+Battery Read Count: 13600000
+Actual Voltage: 13.792
+Cooker charging...
+
+Battery Read Count: 13680000
+Actual Voltage: 13.796
+Cooker charging...
+
+Battery Read Count: 13760000
+Actual Voltage: 13.792
+Cooker charging...
+
+Battery Read Count: 13840000
+Actual Voltage: 13.806
+Cooker charging...
+
+Battery Read Count: 13920000
+Actual Voltage: 13.819
+Cooker charging...
+
+Battery Read Count: 14000000
+Actual Voltage: 13.882
+Cooker charging...
+
+Battery Read Count: 14080000
+Actual Voltage: 13.808
+Cooker charging...
+
+Battery Read Count: 14160000
+Actual Voltage: 13.784
+Cooker charging...
+
+Battery Read Count: 14240000
+Actual Voltage: 13.838
+Cooker charging...
+
+Battery Read Count: 14320000
+Actual Voltage: 13.826
+Cooker charging...
+
+Battery Read Count: 14400000
+Actual Voltage: 13.836
+Cooker charging...
+
+Battery Read Count: 14480000
+Actual Voltage: 13.822
+Cooker charging...
+
+Battery Read Count: 14560000
+Actual Voltage: 13.834
+Cooker charging...
+
+Battery Read Count: 14640000
+Actual Voltage: 13.824
+Cooker charging...
+
+Battery Read Count: 14720000
+Actual Voltage: 13.857
+Cooker charging...
+
+Battery Read Count: 14800000
+Actual Voltage: 13.847
+Cooker charging...
+
+Battery Read Count: 14880000
+Actual Voltage: 13.820
+Cooker charging...
+
+Battery Read Count: 14960000
+Actual Voltage: 13.832
+Cooker charging...
+
+Battery Read Count: 15040000
+Actual Voltage: 13.858
+Cooker charging...
+
+Battery Read Count: 15120000
+Actual Voltage: 13.853
+Cooker charging...
+
+Battery Read Count: 15200000
+Actual Voltage: 13.839
+Cooker charging...
+
+Battery Read Count: 15280000
+Actual Voltage: 13.865
+Cooker charging...
+
+Battery Read Count: 15360000
+Actual Voltage: 13.883
+Cooker charging...
+
+Battery Read Count: 15440000
+Actual Voltage: 13.878
+Cooker charging...
+
+Battery Read Count: 15520000
+Actual Voltage: 13.855
+Cooker charging...
+
+Battery Read Count: 15600000
+Actual Voltage: 13.847
+Cooker charging...
+
+Battery Read Count: 15680000
+Actual Voltage: 13.880
+Cooker charging...
+
+Battery Read Count: 15760000
+Actual Voltage: 13.864
+Cooker charging...
+
+Battery Read Count: 15840000
+Actual Voltage: 13.891
+Cooker charging...
+
+Battery Read Count: 15920000
+Actual Voltage: 13.887
+Cooker charging...
+
+Battery Read Count: 16000000
+Actual Voltage: 13.867
+Cooker charging...
+
+Battery Read Count: 16080000
+Actual Voltage: 13.886
+Cooker charging...
+
+Battery Read Count: 16160000
+Actual Voltage: 13.909
+Cooker charging...
+
+Battery Read Count: 16240000
+Actual Voltage: 13.898
+Cooker charging...
+
+Battery Read Count: 16320000
+Actual Voltage: 13.907
+Cooker charging...
+
+Battery Read Count: 16400000
+Actual Voltage: 13.893
+Cooker charging...
+
+Battery Read Count: 16480000
+Actual Voltage: 13.934
+Cooker charging...
+
+Battery Read Count: 16560000
+Actual Voltage: 13.914
+Cooker charging...
+
+Battery Read Count: 16640000
+Actual Voltage: 13.917
+Cooker charging...
+
+Battery Read Count: 16720000
+Actual Voltage: 13.915
+Cooker charging...
+
+Battery Read Count: 16800000
+Actual Voltage: 13.896
+Cooker charging...
+
+Battery Read Count: 16880000
+Actual Voltage: 13.929
+Cooker charging...
+
+Battery Read Count: 16960000
+Actual Voltage: 13.898
+Cooker charging...
+
+Battery Read Count: 17040000
+Actual Voltage: 13.906
+Cooker charging...
+
+Battery Read Count: 17120000
+Actual Voltage: 13.936
+Cooker charging...
+
+Battery Read Count: 17200000
+Actual Voltage: 13.920
+Cooker charging...
+
+Battery Read Count: 17280000
+Actual Voltage: 13.912
+Cooker charging...
+
+Battery Read Count: 17360000
+Actual Voltage: 13.938
+Cooker charging...
+
+Battery Read Count: 17440000
+Actual Voltage: 13.953
+Cooker charging...
+
+Battery Read Count: 17520000
+Actual Voltage: 13.934
+Cooker charging...
+
+Battery Read Count: 17600000
+Actual Voltage: 13.959
+Cooker charging...
+
+Battery Read Count: 17680000
+Actual Voltage: 13.924
+Cooker charging...
+
+Battery Read Count: 17760000
+Actual Voltage: 13.933
+Cooker charging...
+
+Battery Read Count: 17840000
+Actual Voltage: 13.974
+Cooker charging...
+
+Battery Read Count: 17920000
+Actual Voltage: 13.988
+Cooker charging...
+
+Battery Read Count: 18000000
+Actual Voltage: 13.946
+Cooker charging...
+
+Battery Read Count: 18080000
+Actual Voltage: 14.012
+Cooker charging...
+
+Battery Read Count: 18160000
+Actual Voltage: 13.930
+Cooker charging...
+
+Battery Read Count: 18240000
+Actual Voltage: 13.969
+Cooker charging...
+
+Battery Read Count: 18320000
+Actual Voltage: 13.986
+Cooker charging...
+
+Battery Read Count: 18400000
+Actual Voltage: 13.961
+Cooker charging...
+
+Battery Read Count: 18480000
+Actual Voltage: 13.966
+Cooker charging...
+
+Battery Read Count: 18560000
+Actual Voltage: 13.985
+Cooker charging...
+
+Battery Read Count: 18640000
+Actual Voltage: 13.971
+Cooker charging...
+
+Battery Read Count: 18720000
+Actual Voltage: 14.001
+Cooker charging...
+
+Battery Read Count: 18800000
+Actual Voltage: 13.940
+Cooker charging...
+
+Battery Read Count: 18880000
+Actual Voltage: 13.986
+Cooker charging...
+
+Battery Read Count: 18960000
+Actual Voltage: 13.990
+Cooker charging...
+
+Battery Read Count: 19040000
+Actual Voltage: 13.959
+Cooker charging...
+
+Battery Read Count: 19120000
+Actual Voltage: 14.011
+Cooker charging...
+
+Battery Read Count: 19200000
+Actual Voltage: 14.003
+Cooker charging...
+
+Battery Read Count: 19280000
+Actual Voltage: 13.956
+Cooker charging...
+
+Battery Read Count: 19360000
+Actual Voltage: 13.989
+Cooker charging...
+
+Battery Read Count: 19440000
+Actual Voltage: 13.986
+Cooker charging...
+
+Battery Read Count: 19520000
+Actual Voltage: 13.995
+Cooker charging...
+
+Battery Read Count: 19600000
+Actual Voltage: 13.984
+Cooker charging...
+
+Battery Read Count: 19680000
+Actual Voltage: 13.990
+Cooker charging...
+
+Battery Read Count: 19760000
+Actual Voltage: 13.961
+Cooker charging...
+
+Battery Read Count: 19840000
+Actual Voltage: 13.981
+Cooker charging...
+
+Battery Read Count: 19920000
+Actual Voltage: 13.971
+Cooker charging...
+
+Battery Read Count: 20000000
+Actual Voltage: 13.986
+Cooker charging...
+
+Battery Read Count: 20080000
+Actual Voltage: 13.983
+Cooker charging...
+
+Battery Read Count: 20160000
+Actual Voltage: 13.996
+Cooker charging...
+
+Battery Read Count: 20240000
+Actual Voltage: 14.004
+Cooker charging...
+
+Battery Read Count: 20320000
+Actual Voltage: 13.978
+Cooker charging...
+
+Battery Read Count: 20400000
+Actual Voltage: 14.004
+Cooker charging...
+
+Battery Read Count: 20480000
+Actual Voltage: 13.982
+Cooker charging...
+
+Battery Read Count: 20560000
+Actual Voltage: 13.966
+Cooker charging...
+
+Battery Read Count: 20640000
+Actual Voltage: 13.980
+Cooker charging...
+
+Battery Read Count: 20720000
+Actual Voltage: 13.979
+Cooker charging...
+
+Battery Read Count: 20800000
+Actual Voltage: 13.978
+Cooker charging...
+
+Battery Read Count: 20880000
+Actual Voltage: 13.977
+Cooker charging...
+
+Battery Read Count: 20960000
+Actual Voltage: 13.993
+Cooker charging...
+
+Battery Read Count: 21040000
+Actual Voltage: 13.998
+Cooker charging...
+
+Battery Read Count: 21120000
+Actual Voltage: 13.969
+Cooker charging...
+
+Battery Read Count: 21200000
+Actual Voltage: 14.018
+Cooker charging...
+
+Battery Read Count: 21280000
+Actual Voltage: 14.001
+Cooker charging...
+
+Battery Read Count: 21360000
+Actual Voltage: 14.005
+Cooker charging...
+
+Battery Read Count: 21440000
+Actual Voltage: 13.985
+Cooker charging...
+
+Battery Read Count: 21520000
+Actual Voltage: 14.014
+Cooker charging...
+
+Battery Read Count: 21600000
+Actual Voltage: 14.019
+Cooker charging...
+
+Battery Read Count: 21680000
+Actual Voltage: 14.018
+Cooker charging...
+
+Battery Read Count: 21760000
+Actual Voltage: 14.015
+Cooker charging...
+
+Battery Read Count: 21840000
+Actual Voltage: 14.026
+Cooker charging...
+
+Battery Read Count: 21920000
+Actual Voltage: 14.008
+Cooker charging...
+
+Battery Read Count: 22000000
+Actual Voltage: 14.005
+Cooker charging...
+
+Battery Read Count: 22080000
+Actual Voltage: 14.015
+Cooker charging...
+
+Battery Read Count: 22160000
+Actual Voltage: 13.990
+Cooker charging...
+
+Battery Read Count: 22240000
+Actual Voltage: 14.031
+Cooker charging...
+
+Battery Read Count: 22320000
+Actual Voltage: 14.013
+Cooker charging...
+
+Battery Read Count: 22400000
+Actual Voltage: 14.003
+Cooker charging...
+
+Battery Read Count: 22480000
+Actual Voltage: 14.011
+Cooker charging...
+
+Battery Read Count: 22560000
+Actual Voltage: 14.047
+Cooker charging...
+
+Battery Read Count: 22640000
+Actual Voltage: 14.023
+Cooker charging...
+
+Battery Read Count: 22720000
+Actual Voltage: 13.971
+Cooker charging...
+
+Battery Read Count: 22800000
+Actual Voltage: 14.038
+Cooker charging...
+
+Battery Read Count: 22880000
+Actual Voltage: 14.013
+Cooker charging...
+
+Battery Read Count: 22960000
+Actual Voltage: 14.004
+Cooker charging...
+
+Battery Read Count: 23040000
+Actual Voltage: 14.023
+Cooker charging...
+
+Battery Read Count: 23120000
+Actual Voltage: 14.027
+Cooker charging...
+
+Battery Read Count: 23200000
+Actual Voltage: 14.008
+Cooker charging...
+
+Battery Read Count: 23280000
+Actual Voltage: 13.999
+Cooker charging...
+
+Battery Read Count: 23360000
+Actual Voltage: 14.025
+Cooker charging...
+
+Battery Read Count: 23440000
+Actual Voltage: 14.016
+Cooker charging...
+
+Battery Read Count: 23520000
+Actual Voltage: 14.018
+Cooker charging...
+
+Battery Read Count: 23600000
+Actual Voltage: 14.024
+Cooker charging...
+
+Battery Read Count: 23680000
+Actual Voltage: 14.026
+Cooker charging...
+
+Battery Read Count: 23760000
+Actual Voltage: 14.020
+Cooker charging...
+
+Battery Read Count: 23840000
+Actual Voltage: 14.030
+Cooker charging...
+
+Battery Read Count: 23920000
+Actual Voltage: 14.019
+Cooker charging...
+
+Battery Read Count: 24000000
+Actual Voltage: 14.056
+Cooker charging...
+
+Battery Read Count: 24080000
+Actual Voltage: 13.996
+Cooker charging...
+
+Battery Read Count: 24160000
+Actual Voltage: 14.004
+Cooker charging...
+
+Battery Read Count: 24240000
+Actual Voltage: 14.001
+Cooker charging...
+
+Battery Read Count: 24320000
+Actual Voltage: 14.005
+Cooker charging...
+
+Battery Read Count: 24400000
+Actual Voltage: 14.044
+Cooker charging...
+
+Battery Read Count: 24480000
+Actual Voltage: 14.040
+Cooker charging...
+
+Battery Read Count: 24560000
+Actual Voltage: 13.982
+Cooker charging...
+
+Battery Read Count: 24640000
+Actual Voltage: 14.022
+Cooker charging...
+
+Battery Read Count: 24720000
+Actual Voltage: 14.034
+Cooker charging...
+
+Battery Read Count: 24800000
+Actual Voltage: 14.010
+Cooker charging...
+
+Battery Read Count: 24880000
+Actual Voltage: 13.994
+Cooker charging...
+
+Battery Read Count: 24960000
+Actual Voltage: 14.064
+Cooker charging...
+
+Battery Read Count: 25040000
+Actual Voltage: 14.033
+Cooker charging...
+
+Battery Read Count: 25120000
+Actual Voltage: 14.029
+Cooker charging...
+
+Battery Read Count: 25200000
+Actual Voltage: 14.059
+Cooker charging...
+
+Battery Read Count: 25280000
+Actual Voltage: 14.052
+Cooker charging...
+
+Battery Read Count: 25360000
+Actual Voltage: 14.030
+Cooker charging...
+
+Battery Read Count: 25440000
+Actual Voltage: 14.019
+Cooker charging...
+
+Battery Read Count: 25520000
+Actual Voltage: 14.037
+Cooker charging...
+
+Battery Read Count: 25600000
+Actual Voltage: 14.011
+Cooker charging...
+
+Battery Read Count: 25680000
+Actual Voltage: 14.023
+Cooker charging...
+
+Battery Read Count: 25760000
+Actual Voltage: 14.033
+Cooker charging...
+
+Battery Read Count: 25840000
+Actual Voltage: 14.010
+Cooker charging...
+
+Battery Read Count: 25867844
+Actual Voltage: 14.040
+Cooker charging...
+
+
+Coil 1 Level: 1
+Coil 2 Level: 0
+
+Coil 1FIRED !!!
+At: 418
+Fan 1 Speed: 20
+Battery Read Count: 25880000
+Actual Voltage: 14.034
+Cooker charging...
+
+Battery Read Count: 25920000
+Actual Voltage: 13.997
+Cooker charging...
+
+Battery Read Count: 25960000
+Actual Voltage: 14.011
+Cooker charging...
+
+Battery Read Count: 26000000
+Actual Voltage: 13.986
+Cooker charging...
+
+Battery Read Count: 26040000
+Actual Voltage: 13.995
+Cooker charging...
+
+Battery Read Count: 26080000
+Actual Voltage: 14.027
+Cooker charging...
+
+Battery Read Count: 26120000
+Actual Voltage: 13.990
+Cooker charging...
+
+Battery Read Count: 26160000
+Actual Voltage: 13.989
+Cooker charging...
+
+Battery Read Count: 26192950
+Actual Voltage: 14.015
+Cooker charging...
+
+
+Coil 1 Level: 1
+Coil 2 Level: 1
+
+Coil 2 FIRED !!!
+At: 418
+Battery Read Count: 26200000
+Actual Voltage: 13.767
+Cooker charging...
+
+Battery Read Count: 26240000
+Actual Voltage: 13.779
+Cooker charging...
+
+Battery Read Count: 26280000
+Actual Voltage: 13.763
+Cooker charging...
+
+Battery Read Count: 26294825
+Actual Voltage: 13.652
+Cooker charging...
+
+
+Coil 1 Level: 0
+Coil 2 Level: 0
+
+Battery Read Count: 26320000
+Actual Voltage: 14.007
+Cooker charging...
+
+Battery Read Count: 26400000
+Actual Voltage: 14.041
+Cooker charging...
+
+Battery Read Count: 26440464
+Actual Voltage: 14.075
+Cooker charging...
+
+
+Coil 1 Level: 1
+Coil 2 Level: 1
+
+Coil 2FIRED !!!
+At: 430
+Coil 2 FIRED !!!
+At: 430
+Battery Read Count: 26480000
+Actual Voltage: 13.732
+Cooker charging...
+
+Battery Read Count: 26500858
+Actual Voltage: 13.464
+Cooker charging...
+
+
+Coil 1 Level: 0
+Coil 2 Level: 0
+
+Battery Read Count: 26560000
+Actual Voltage: 14.046
+Cooker charging...
+
+Battery Read Count: 26640000
+Actual Voltage: 14.016
+Cooker charging...
+
+Battery Read Count: 26720000
+Actual Voltage: 14.040
+Cooker charging...
+
+Fan 1 OFF!
+Fan 2 OFF!
+Battery Read Count: 26800000
+Actual Voltage: 14.054
+Cooker charging...
+
+Battery Read Count: 26880000
+Actual Voltage: 14.099
+Cooker charging...
+
+Battery Read Count: 26960000
+Actual Voltage: 14.102
+Cooker charging...
+
+Battery Read Count: 27040000
+Actual Voltage: 14.095
+Cooker charging...
+
+---- Closed serial port COM6 due to disconnection from the machine ----

@@ -1,0 +1,117 @@
+---- Closed serial port COM6 due to disconnection from the machine ----
+---- Opened the serial port COM6 ----
+E (15221) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:
+E (15221) task_wdt:  - IDLE (CPU 0)
+E (15221) task_wdt: Tasks currently running:
+E (15221) task_wdt: CPU 0: loopTask
+E (15221) task_wdt: CPU 1: IDLE
+E (15221) task_wdt: Aborting.
+
+abort() was called at PC 0x400d8721 on core 0
+
+
+Backtrace:0x400833d1:0x3ffbe74c |<-CORRUPTED
+
+
+
+
+ELF file SHA256: 0000000000000000
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13864
+load:0x40080400,len:3608
+entry 0x400805f0
+E (15221) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:
+E (15221) task_wdt:  - IDLE (CPU 0)
+E (15221) task_wdt: Tasks currently running:
+E (15221) task_wdt: CPU 0: loopTask
+E (15221) task_wdt: CPU 1: IDLE
+E (15221) task_wdt: Aborting.
+
+abort() was called at PC 0x400d8721 on core 0
+
+
+Backtrace:0x400833d1:0x3ffbe74c |<-CORRUPTED
+
+
+
+
+ELF file SHA256: 0000000000000000
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13864
+load:0x40080400,len:3608
+entry 0x400805f0
+---- Closed serial port COM6 due to disconnection from the machine ----
+---- Opened the serial port COM6 ----
+E (15221) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:
+E (15221) task_wdt:  - IDLE (CPU 0)
+E (15221) task_wdt: Tasks currently running:
+E (15221) task_wdt: CPU 0: loopTask
+E (15221) task_wdt: CPU 1: IDLE
+E (15221) task_wdt: Aborting.
+
+abort() was called at PC 0x400d8721 on core 0
+
+
+Backtrace:0x400833d1:0x3ffbe74c |<-CORRUPTED
+
+
+
+
+ELF file SHA256: 0000000000000000
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13864
+load:0x40080400,len:3608
+entry 0x400805f0
+E (15221) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:
+E (15221) task_wdt:  - IDLE (CPU 0)
+E (15221) task_wdt: Tasks currently running:
+E (15221) task_wdt: CPU 0: loopTask
+E (15221) task_wdt: CPU 1: IDLE
+E (15221) task_wdt: Aborting.
+
+abort() was called at PC 0x400d8721 on core 0
+
+
+Backtrace:0x400833d1:0x3ffbe74c |<-CORRUPTED
+
+
+
+
+ELF file SHA256: 0000000000000000
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:1344
+load:0x40078000,len:13864
+load:0x40080400,len:3608
+entry 0x400805f0
+---- Closed serial port COM6 due to disconnection from the machine ----
