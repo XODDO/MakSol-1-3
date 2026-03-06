@@ -1,0 +1,97 @@
+13:39:48.890 -> Now Reading:
+13:39:48.890 -> Reading file: /Mak2_3.txt
+13:39:48.985 -> - read from file:
+13:39:49.032 -> 
+13:39:49.032 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:39:49.032 -> 
+13:39:49.032 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.032 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.032 -> 
+13:39:49.032 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.080 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.080 -> 
+13:39:49.080 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.080 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.080 -> 
+13:39:49.080 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.080 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.127 -> 
+13:39:49.127 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.127 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.127 -> 
+13:39:49.127 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.127 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.175 -> 
+13:39:49.175 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.175 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.175 -> 
+13:39:49.175 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.175 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.175 -> 
+13:39:49.175 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.223 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.223 -> 
+13:39:49.223 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.223 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.223 -> 
+13:39:49.223 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.223 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.269 -> 
+13:39:49.269 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.269 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.269 -> 
+13:39:49.269 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.269 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.269 -> 
+13:39:49.269 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.316 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.316 -> 
+13:39:49.316 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.316 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.316 -> 
+13:39:49.316 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.316 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.364 -> 
+13:39:49.364 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.364 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.364 -> 
+13:39:49.364 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.364 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.364 -> 
+13:39:49.412 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.412 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.412 -> 
+13:39:49.412 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.412 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.412 -> 
+13:39:49.412 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.459 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.459 -> 
+13:39:49.459 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.459 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.459 -> 
+13:39:49.459 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.459 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.507 -> 
+13:39:49.507 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.507 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.507 -> 
+13:39:49.507 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.507 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.507 -> 
+13:39:49.507 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.555 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.555 -> 
+13:39:49.555 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.555 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.555 -> 
+13:39:49.555 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.555 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.603 -> 
+13:39:49.603 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.603 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.603 -> 
+13:39:49.603 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:39:49.603 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:39:49.603 -> Listing directory: /
+13:39:49.742 ->   FILE: Mak2_3.txt	SIZE: 2625

@@ -1,0 +1,103 @@
+/*
+
+int heat_levelLed[4] = {10, 11, 12, 13};
+int batt_levelLed[4] = {6, 7, 8, 9};
+int coilDrive = 5;   //PWM Enabled
+int battCharge = 4; // PWM Enabled
+int CoolingFan = 3; // PWM Enabled
+int speaker = 2;
+
+int SolarNow = 1;
+int BattNow = 0;
+
+int adjust = A0;
+int tempRead=A1;
+int SolarPin = A2;
+int BattPin = A3;
+
+int SolarLED = A4;
+int BattLED = A5; 
+
+
+void setup() {
+ //DDRD = B11111100; //setting D2 to D7 as OUTPUTS
+ for(int i=0; i<4; i++){pinMode(heat_levelLed[i], OUTPUT);}
+Serial.begin(9600);
+}
+
+unsigned int knob = 0;
+unsigned int pos1 = 0;
+unsigned int pos2 = 0;
+
+bool ON[4] = {false, false, false, false};
+
+bool upward = false; 
+bool downward=false;
+
+void loop() {
+
+
+ pos1 = analogRead(adjust);
+        delay(100);
+ pos2 = analogRead(adjust);
+        delay(100);
+        
+ Serial.println();        
+ Serial.print("Position 1: "); Serial.println(pos1);
+ Serial.print("Position 2: "); Serial.println(pos2);
+
+Serial.println();
+delay(1000);
+/*if()
+
+  if(knob >= 10 && knob <= 200){ // heat level 1
+    if(!ON[0]) {ON[0] = true; switch_ON(heat_levelLed[0]);}
+
+    for(int i=1; i<4; i++){
+      if(ON[i]){ON[i] = false; switch_OFF(heat_levelLed[i]);}
+    }
+  }
+
+
+  else if(knob > 200 && knob <= 400){ //heat level 2
+    if(!ON[1]) {ON[1] = true; switch_ON(heat_levelLed[1]);}
+
+    for(int i=0; i<4; i++){
+      if(ON[1]) continue;
+      if(ON[i]){ON[i] = false; switch_OFF(heat_levelLed[i]);}
+      }
+    }
+
+  else if(knob > 400 && knob <= 600){ //heat level 3
+    if(!ON[2]) {ON[2] = true; switch_ON(heat_levelLed[2]);}
+
+    for(int i=0; i<4; i++){
+      if(ON[2]) continue;
+      if(ON[i]){ON[i] = false; switch_OFF(heat_levelLed[i]);}
+      }
+    }
+
+  else if(knob > 600 && knob < 800){ //heat level 4
+    if(!ON[1]) {ON[1] = true; switch_ON(heat_levelLed[1]);}
+
+    for(int i=0; i<4; i++){
+      if(ON[3]) continue;
+      if(ON[i]){ON[i] = false; switch_OFF(heat_levelLed[i]);}
+      }
+    }
+
+else {}
+
+*
+    //close LOOP
+  }
+
+  void switch_ON(int kataala){
+       digitalWrite(kataala, HIGH);
+  }
+  
+  void switch_OFF(int kataala){
+    digitalWrite(kataala, LOW);
+  }
+  */
+

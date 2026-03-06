@@ -1,0 +1,36 @@
+/*
+ knob = analogRead(adjust);
+ Serial.print("Turn: "); Serial.println(knob);
+
+  if(knob <= 10){
+    if(!ON[0]) {ON[0] = true; switch_ON(heat_levelLed[0], ON[0]);}
+
+    for(int i=1; i<3; i++){
+      if(ON[i]){switch_OFF(heat_levelLed[i], false);}
+    }
+  }
+
+  else if(knob > 10 && knob <= 20){
+     if(!ON[1])switch_ON(heat_levelLed[1]);
+  }
+
+  else if(knob > 20 && knob <= 30){
+     if(!ON[2])switch_ON(heat_levelLed[2]);
+  }
+  else if(knob > 30){
+     if(!ON[3])switch_ON(heat_levelLed[3]);
+  }
+
+}
+
+  void switch_ON(int kataala, bool toggled){
+       digitalWrite(kataala, HIGH);
+       toggled = true;
+  }
+  
+  void switch_OFF(int kataala, bool toggled){
+    digitalWrite(kataala, LOW);
+    toggled = false;
+  }
+
+  */

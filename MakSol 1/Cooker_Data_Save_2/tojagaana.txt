@@ -1,0 +1,1748 @@
+13:35:10.416 -> ets Jun  8 2016 00:22:57
+13:35:10.416 -> 
+13:35:10.416 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:35:10.416 -> configsip: 0, SPIWP:0xee
+13:35:10.416 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:35:10.416 -> mode:DIO, clock div:1
+13:35:10.416 -> load:0x3fff0030,len:1344
+13:35:10.416 -> load:0x40078000,len:13864
+13:35:10.416 -> load:0x40080400,len:3608
+13:35:10.416 -> entry 0x400805f0
+13:35:10.702 -> Creating Dir: Data/
+13:35:10.702 -> mkdir failed
+13:35:10.702 -> Appending to file: /Mak2_3.txt
+13:35:10.892 -> - message appended
+13:35:11.414 -> Data Saved!Now Reading:
+13:35:11.510 -> Reading file: /Mak2_3.txt
+13:35:11.510 -> - read from file:
+13:35:11.510 -> 
+13:35:11.510 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:35:11.510 -> 
+13:35:11.510 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:11.557 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:11.557 -> 
+13:35:11.557 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:11.557 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:11.557 -> 
+13:35:11.557 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:11.557 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:11.605 -> 
+13:35:11.605 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:11.605 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:11.605 -> 
+13:35:11.605 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:11.605 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:11.605 -> 
+13:35:11.605 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:11.653 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:11.653 -> 
+13:35:11.653 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:11.653 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:11.653 -> 
+13:35:11.653 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:11.700 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:14.026 -> ets Jun  8 2016 00:22:57
+13:35:14.074 -> 
+13:35:14.074 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:35:14.074 -> configsip: 0, SPIWP:0xee
+13:35:14.074 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:35:14.074 -> mode:DIO, clock div:1
+13:35:14.074 -> load:0x3fff0030,len:1344
+13:35:14.074 -> load:0x40078000,len:13864
+13:35:14.074 -> load:0x40080400,len:3608
+13:35:14.074 -> entry 0x400805f0
+13:35:14.310 -> Creating Dir: Data/
+13:35:14.310 -> mkdir failed
+13:35:14.310 -> Appending to file: /Mak2_3.txt
+13:35:14.358 -> - message appended
+13:35:14.452 -> Data Saved!Now Reading:
+13:35:14.500 -> Reading file: /Mak2_3.txt
+13:35:14.500 -> - read from file:
+13:35:14.548 -> 
+13:35:14.548 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:35:14.548 -> 
+13:35:14.548 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:14.548 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:14.548 -> 
+13:35:14.548 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:14.548 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:14.594 -> 
+13:35:14.594 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:14.594 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:14.594 -> 
+13:35:14.594 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:14.594 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:14.594 -> 
+13:35:14.594 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:14.642 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:14.642 -> 
+13:35:14.642 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:14.642 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:14.642 -> 
+13:35:14.642 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:14.642 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:14.688 -> 
+13:35:14.688 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:14.688 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:14.688 -> 
+13:35:14.688 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:14.688 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:46.342 -> ets Jun  8 2016 00:22:57
+13:35:46.342 -> 
+13:35:46.342 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:35:46.342 -> configsip: 0, SPIWP:0xee
+13:35:46.342 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:35:46.342 -> mode:DIO, clock div:1
+13:35:46.342 -> load:0x3fff0030,len:1344
+13:35:46.342 -> load:0x40078000,len:13864
+13:35:46.342 -> load:0x40080400,len:3608
+13:35:46.342 -> entry 0x400805f0
+13:35:46.628 -> Creating Dir: Data/
+13:35:46.628 -> mkdir failed
+13:35:46.628 -> Appending to file: /Mak2_3.txt
+13:35:46.676 -> - message appended
+13:35:46.771 -> Data Saved!Now Reading:
+13:35:46.818 -> Reading file: /Mak2_3.txt
+13:35:46.867 -> - read from file:
+13:35:46.867 -> 
+13:35:46.867 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:35:46.914 -> 
+13:35:46.914 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:46.914 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:46.914 -> 
+13:35:46.914 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:46.914 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:46.914 -> 
+13:35:46.914 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:46.960 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:46.960 -> 
+13:35:46.960 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:46.960 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:46.960 -> 
+13:35:46.960 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:46.960 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:47.007 -> 
+13:35:47.007 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:47.007 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:47.007 -> 
+13:35:47.007 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:47.007 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:47.055 -> 
+13:35:47.055 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:47.055 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:47.055 -> 
+13:35:47.055 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:47.055 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:47.055 -> 
+13:35:47.055 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:47.102 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:48.484 -> ets Jun  8 2016 00:22:57
+13:35:48.484 -> 
+13:35:48.484 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:35:48.484 -> configsip: 0, SPIWP:0xee
+13:35:48.484 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:35:48.484 -> mode:DIO, clock div:1
+13:35:48.484 -> load:0x3fff0030,len:1344
+13:35:48.532 -> load:0x40078000,len:13864
+13:35:48.532 -> load:0x40080400,len:3608
+13:35:48.532 -> entry 0x400805f0
+13:35:48.767 -> Creating Dir: Data/
+13:35:48.767 -> mkdir failed
+13:35:48.767 -> Appending to file: /Mak2_3.txt
+13:35:48.815 -> - message appended
+13:35:48.959 -> Data Saved!Now Reading:
+13:35:49.006 -> Reading file: /Mak2_3.txt
+13:35:49.053 -> - read from file:
+13:35:49.101 -> 
+13:35:49.101 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:35:49.101 -> 
+13:35:49.101 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:49.101 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:49.149 -> 
+13:35:49.149 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:49.149 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:49.149 -> 
+13:35:49.149 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:49.149 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:49.149 -> 
+13:35:49.149 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:49.195 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:49.195 -> 
+13:35:49.195 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:49.195 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:49.195 -> 
+13:35:49.195 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:49.195 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:49.243 -> 
+13:35:49.243 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:49.243 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:49.243 -> 
+13:35:49.243 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:49.243 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:49.243 -> 
+13:35:49.243 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:49.290 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:49.290 -> 
+13:35:49.290 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:49.290 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:49.290 -> 
+13:35:49.290 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:49.339 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:50.049 -> ets Jun  8 2016 00:22:57
+13:35:50.096 -> 
+13:35:50.096 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:35:50.096 -> configsip: 0, SPIWP:0xee
+13:35:50.096 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:35:50.096 -> mode:DIO, clock div:1
+13:35:50.096 -> load:0x3fff0030,len:1344
+13:35:50.096 -> load:0x40078000,len:13864
+13:35:50.096 -> load:0x40080400,len:3608
+13:35:50.096 -> entry 0x400805f0
+13:35:50.379 -> Creating Dir: Data/
+13:35:50.379 -> mkdir failed
+13:35:50.379 -> Appending to file: /Mak2_3.txt
+13:35:50.427 -> - message appended
+13:35:50.616 -> Data Saved!Now Reading:
+13:35:50.663 -> Reading file: /Mak2_3.txt
+13:35:50.711 -> - read from file:
+13:35:50.757 -> 
+13:35:50.757 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:35:50.757 -> 
+13:35:50.757 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:50.757 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:50.757 -> 
+13:35:50.757 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:50.805 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:50.805 -> 
+13:35:50.805 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:50.805 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:50.805 -> 
+13:35:50.805 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:50.805 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:50.852 -> 
+13:35:50.852 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:50.852 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:50.852 -> 
+13:35:50.852 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:50.852 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:50.852 -> 
+13:35:50.852 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:50.900 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:50.900 -> 
+13:35:50.900 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:50.900 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:50.900 -> 
+13:35:50.900 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:50.900 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:50.947 -> 
+13:35:50.947 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:50.947 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:50.947 -> 
+13:35:50.947 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:50.947 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:50.947 -> 
+13:35:50.947 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:50.995 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:52.228 -> ets Jun  8 2016 00:22:57
+13:35:52.228 -> 
+13:35:52.228 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:35:52.228 -> configsip: 0, SPIWP:0xee
+13:35:52.228 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:35:52.228 -> mode:DIO, clock div:1
+13:35:52.228 -> load:0x3fff0030,len:1344
+13:35:52.228 -> load:0x40078000,len:13864
+13:35:52.228 -> load:0x40080400,len:3608
+13:35:52.228 -> entry 0x400805f0
+13:35:52.512 -> Creating Dir: Data/
+13:35:52.512 -> mkdir failed
+13:35:52.512 -> Appending to file: /Mak2_3.txt
+13:35:52.607 -> - message appended
+13:35:52.798 -> Data Saved!Now Reading:
+13:35:52.846 -> Reading file: /Mak2_3.txt
+13:35:52.940 -> - read from file:
+13:35:52.940 -> 
+13:35:52.940 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:35:52.940 -> 
+13:35:52.940 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:52.988 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:52.988 -> 
+13:35:52.988 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:52.988 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:52.988 -> 
+13:35:52.988 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:53.035 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:53.035 -> 
+13:35:53.035 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:53.035 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:53.035 -> 
+13:35:53.035 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:53.035 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:53.082 -> 
+13:35:53.082 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:53.082 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:53.082 -> 
+13:35:53.082 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:53.082 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:53.082 -> 
+13:35:53.082 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:53.129 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:53.129 -> 
+13:35:53.129 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:53.129 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:53.129 -> 
+13:35:53.129 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:53.129 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:53.178 -> 
+13:35:53.178 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:53.178 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:53.178 -> 
+13:35:53.178 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:53.178 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:53.178 -> 
+13:35:53.178 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:53.224 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:54.315 -> ets Jun  8 2016 00:22:57
+13:35:54.315 -> 
+13:35:54.315 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:35:54.315 -> configsip: 0, SPIWP:0xee
+13:35:54.315 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:35:54.315 -> mode:DIO, clock div:1
+13:35:54.315 -> load:0x3fff0030,len:1344
+13:35:54.315 -> load:0x40078000,len:13864
+13:35:54.315 -> load:0x40080400,len:3608
+13:35:54.315 -> entry 0x400805f0
+13:35:54.599 -> Creating Dir: Data/
+13:35:54.599 -> mkdir failed
+13:35:54.599 -> Appending to file: /Mak2_3.txt
+13:35:54.742 -> - message appended
+13:35:54.933 -> Data Saved!Now Reading:
+13:35:54.982 -> Reading file: /Mak2_3.txt
+13:35:55.077 -> - read from file:
+13:35:55.124 -> 
+13:35:55.124 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:35:55.124 -> 
+13:35:55.124 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:55.124 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:55.124 -> 
+13:35:55.124 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:55.124 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:55.172 -> 
+13:35:55.172 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:55.172 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:55.172 -> 
+13:35:55.172 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:55.172 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:55.172 -> 
+13:35:55.172 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:55.219 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:55.219 -> 
+13:35:55.219 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:55.219 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:55.219 -> 
+13:35:55.219 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:55.219 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:55.267 -> 
+13:35:55.267 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:55.267 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:55.267 -> 
+13:35:55.267 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:55.267 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:55.267 -> 
+13:35:55.267 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:55.314 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:55.314 -> 
+13:35:55.314 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:55.314 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:55.314 -> 
+13:35:55.314 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:55.362 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:55.362 -> 
+13:35:55.362 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:55.362 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:55.362 -> 
+13:35:55.362 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:55.362 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:56.359 -> ets Jun  8 2016 00:22:57
+13:35:56.359 -> 
+13:35:56.359 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:35:56.407 -> configsip: 0, SPIWP:0xee
+13:35:56.407 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:35:56.407 -> mode:DIO, clock div:1
+13:35:56.407 -> load:0x3fff0030,len:1344
+13:35:56.407 -> load:0x40078000,len:13864
+13:35:56.407 -> load:0x40080400,len:3608
+13:35:56.407 -> entry 0x400805f0
+13:35:56.689 -> Creating Dir: Data/
+13:35:56.689 -> mkdir failed
+13:35:56.689 -> Appending to file: /Mak2_3.txt
+13:35:56.830 -> - message appended
+13:35:57.017 -> Data Saved!Now Reading:
+13:35:57.111 -> Reading file: /Mak2_3.txt
+13:35:57.207 -> - read from file:
+13:35:57.254 -> 
+13:35:57.254 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:35:57.254 -> 
+13:35:57.254 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:57.254 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:57.254 -> 
+13:35:57.254 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:57.254 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:57.302 -> 
+13:35:57.302 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:57.302 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:57.302 -> 
+13:35:57.302 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:57.302 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:57.302 -> 
+13:35:57.349 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:57.349 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:57.349 -> 
+13:35:57.349 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:57.349 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:57.349 -> 
+13:35:57.349 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:57.397 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:57.397 -> 
+13:35:57.397 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:57.397 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:57.397 -> 
+13:35:57.397 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:57.397 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:57.444 -> 
+13:35:57.444 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:57.444 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:57.444 -> 
+13:35:57.444 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:57.444 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:57.444 -> 
+13:35:57.444 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:57.491 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:57.491 -> 
+13:35:57.491 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:57.491 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:57.491 -> 
+13:35:57.491 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:57.491 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:35:57.539 -> 
+13:35:57.539 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:35:57.539 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:40.907 -> ets Jun  8 2016 00:22:57
+13:36:40.907 -> 
+13:36:40.907 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:36:40.907 -> configsip: 0, SPIWP:0xee
+13:36:40.907 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:36:40.907 -> mode:DIO, clock div:1
+13:36:40.907 -> load:0x3fff0030,len:1344
+13:36:40.907 -> load:0x40078000,len:13864
+13:36:40.907 -> load:0x40080400,len:3608
+13:36:40.955 -> entry 0x400805f0
+13:36:41.238 -> Creating Dir: Data/
+13:36:41.238 -> mkdir failed
+13:36:41.238 -> Appending to file: /Mak2_3.txt
+13:36:41.381 -> - message appended
+13:36:41.618 -> Data Saved!Now Reading:
+13:36:42.044 -> Reading file: /Mak2_3.txt
+13:36:42.044 -> - read from file:
+13:36:42.044 -> 
+13:36:42.044 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:36:42.044 -> 
+13:36:42.044 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:42.092 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:42.092 -> 
+13:36:42.092 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:42.092 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:42.092 -> 
+13:36:42.092 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:42.092 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:42.139 -> 
+13:36:42.139 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:42.139 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:42.139 -> 
+13:36:42.139 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:42.139 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:42.139 -> 
+13:36:42.139 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:42.187 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:42.187 -> 
+13:36:42.187 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:42.187 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:42.187 -> 
+13:36:42.187 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:42.187 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:42.233 -> 
+13:36:42.233 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:42.233 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:42.233 -> 
+13:36:42.233 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:42.233 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:42.233 -> 
+13:36:42.233 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:42.281 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:42.281 -> 
+13:36:42.281 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:42.281 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:42.281 -> 
+13:36:42.281 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:42.281 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:42.328 -> 
+13:36:42.328 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:42.328 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:42.328 -> 
+13:36:42.328 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:42.328 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:42.376 -> 
+13:36:42.376 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:42.376 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:44.467 -> ets Jun  8 2016 00:22:57
+13:36:44.467 -> 
+13:36:44.467 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:36:44.467 -> configsip: 0, SPIWP:0xee
+13:36:44.467 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:36:44.514 -> mode:DIO, clock div:1
+13:36:44.514 -> load:0x3fff0030,len:1344
+13:36:44.514 -> load:0x40078000,len:13864
+13:36:44.514 -> load:0x40080400,len:3608
+13:36:44.514 -> entry 0x400805f0
+13:36:44.754 -> Creating Dir: Data/
+13:36:44.754 -> mkdir failed
+13:36:44.754 -> Appending to file: /Mak2_3.txt
+13:36:44.754 -> - message appended
+13:36:44.897 -> Data Saved!Now Reading:
+13:36:44.944 -> Reading file: /Mak2_3.txt
+13:36:44.944 -> - read from file:
+13:36:44.992 -> 
+13:36:44.992 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:36:44.992 -> 
+13:36:44.992 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:44.992 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:44.992 -> 
+13:36:44.992 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:45.039 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:45.039 -> 
+13:36:45.039 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:45.039 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:45.039 -> 
+13:36:45.039 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:45.039 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:45.087 -> 
+13:36:45.087 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:45.087 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:45.087 -> 
+13:36:45.087 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:45.087 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:45.087 -> 
+13:36:45.135 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:45.135 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:45.135 -> 
+13:36:45.135 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:45.135 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:45.135 -> 
+13:36:45.135 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:45.183 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:45.183 -> 
+13:36:45.183 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:45.183 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:45.183 -> 
+13:36:45.183 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:45.183 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:45.231 -> 
+13:36:45.231 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:45.231 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:45.231 -> 
+13:36:45.231 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:45.231 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:45.231 -> 
+13:36:45.231 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:45.278 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:45.278 -> 
+13:36:45.278 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:45.278 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:45.278 -> 
+13:36:45.278 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:45.278 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:45.325 -> 
+13:36:45.325 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:45.325 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:47.552 -> ets Jun  8 2016 00:22:57
+13:36:47.552 -> 
+13:36:47.552 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:36:47.552 -> configsip: 0, SPIWP:0xee
+13:36:47.552 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:36:47.552 -> mode:DIO, clock div:1
+13:36:47.552 -> load:0x3fff0030,len:1344
+13:36:47.552 -> load:0x40078000,len:13864
+13:36:47.552 -> load:0x40080400,len:3608
+13:36:47.552 -> entry 0x400805f0
+13:36:47.835 -> Creating Dir: Data/
+13:36:47.835 -> mkdir failed
+13:36:47.835 -> Appending to file: /Mak2_3.txt
+13:36:47.883 -> - message appended
+13:36:47.978 -> Data Saved!Now Reading:
+13:36:48.072 -> Reading file: /Mak2_3.txt
+13:36:48.119 -> - read from file:
+13:36:48.119 -> 
+13:36:48.119 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:36:48.119 -> 
+13:36:48.119 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:48.166 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:48.166 -> 
+13:36:48.166 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:48.166 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:48.166 -> 
+13:36:48.166 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:48.166 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:48.214 -> 
+13:36:48.214 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:48.214 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:48.214 -> 
+13:36:48.214 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:48.214 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:48.214 -> 
+13:36:48.214 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:48.261 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:48.261 -> 
+13:36:48.261 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:48.261 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:48.261 -> 
+13:36:48.261 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:48.261 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:48.309 -> 
+13:36:48.309 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:48.309 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:48.309 -> 
+13:36:48.309 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:48.309 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:48.309 -> 
+13:36:48.309 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:48.356 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:48.356 -> 
+13:36:48.356 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:48.356 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:48.356 -> 
+13:36:48.356 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:48.356 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:48.403 -> 
+13:36:48.403 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:48.403 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:48.403 -> 
+13:36:48.403 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:48.403 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:48.450 -> 
+13:36:48.450 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:48.450 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:48.450 -> 
+13:36:48.450 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:48.450 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:48.450 -> 
+13:36:48.450 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:48.497 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:50.061 -> ets Jun  8 2016 00:22:57
+13:36:50.061 -> 
+13:36:50.061 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:36:50.061 -> configsip: 0, SPIWP:0xee
+13:36:50.061 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:36:50.061 -> mode:DIO, clock div:1
+13:36:50.061 -> load:0x3fff0030,len:1344
+13:36:50.061 -> load:0x40078000,len:13864
+13:36:50.061 -> load:0x40080400,len:3608
+13:36:50.061 -> entry 0x400805f0
+13:36:50.347 -> Creating Dir: Data/
+13:36:50.347 -> mkdir failed
+13:36:50.347 -> Appending to file: /Mak2_3.txt
+13:36:50.394 -> - message appended
+13:36:50.537 -> Data Saved!Now Reading:
+13:36:50.633 -> Reading file: /Mak2_3.txt
+13:36:50.680 -> - read from file:
+13:36:50.680 -> 
+13:36:50.680 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:36:50.680 -> 
+13:36:50.680 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:50.726 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:50.726 -> 
+13:36:50.726 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:50.726 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:50.726 -> 
+13:36:50.726 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:50.774 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:50.774 -> 
+13:36:50.774 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:50.774 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:50.774 -> 
+13:36:50.774 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:50.774 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:50.821 -> 
+13:36:50.821 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:50.821 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:50.821 -> 
+13:36:50.821 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:50.821 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:50.821 -> 
+13:36:50.821 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:50.869 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:50.869 -> 
+13:36:50.869 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:50.869 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:50.869 -> 
+13:36:50.869 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:50.869 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:50.917 -> 
+13:36:50.917 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:50.917 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:50.917 -> 
+13:36:50.917 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:50.917 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:50.917 -> 
+13:36:50.917 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:50.964 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:50.964 -> 
+13:36:50.964 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:50.964 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:50.964 -> 
+13:36:50.964 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:51.013 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:51.013 -> 
+13:36:51.013 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:51.013 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:51.013 -> 
+13:36:51.013 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:51.013 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:51.060 -> 
+13:36:51.060 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:51.060 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:51.060 -> 
+13:36:51.060 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:51.060 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:52.293 -> ets Jun  8 2016 00:22:57
+13:36:52.340 -> 
+13:36:52.340 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:36:52.340 -> configsip: 0, SPIWP:0xee
+13:36:52.340 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:36:52.340 -> mode:DIO, clock div:1
+13:36:52.340 -> load:0x3fff0030,len:1344
+13:36:52.340 -> load:0x40078000,len:13864
+13:36:52.340 -> load:0x40080400,len:3608
+13:36:52.340 -> entry 0x400805f0
+13:36:52.625 -> Creating Dir: Data/
+13:36:52.625 -> mkdir failed
+13:36:52.625 -> Appending to file: /Mak2_3.txt
+13:36:52.672 -> - message appended
+13:36:52.861 -> Data Saved!Now Reading:
+13:36:52.908 -> Reading file: /Mak2_3.txt
+13:36:53.005 -> - read from file:
+13:36:53.005 -> 
+13:36:53.005 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:36:53.005 -> 
+13:36:53.005 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:53.052 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:53.052 -> 
+13:36:53.052 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:53.052 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:53.052 -> 
+13:36:53.052 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:53.052 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:53.100 -> 
+13:36:53.100 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:53.100 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:53.100 -> 
+13:36:53.100 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:53.100 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:53.100 -> 
+13:36:53.100 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:53.148 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:53.148 -> 
+13:36:53.148 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:53.148 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:53.148 -> 
+13:36:53.148 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:53.148 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:53.195 -> 
+13:36:53.195 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:53.195 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:53.195 -> 
+13:36:53.195 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:53.195 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:53.195 -> 
+13:36:53.195 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:53.242 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:53.242 -> 
+13:36:53.242 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:53.242 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:53.242 -> 
+13:36:53.242 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:53.290 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:53.290 -> 
+13:36:53.290 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:53.290 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:53.290 -> 
+13:36:53.290 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:53.290 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:53.337 -> 
+13:36:53.337 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:53.337 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:53.337 -> 
+13:36:53.337 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:53.337 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:53.337 -> 
+13:36:53.337 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:53.384 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:53.384 -> 
+13:36:53.384 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:53.384 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:53.384 -> 
+13:36:53.384 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:53.384 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:54.811 -> ets Jun  8 2016 00:22:57
+13:36:54.811 -> 
+13:36:54.811 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:36:54.811 -> configsip: 0, SPIWP:0xee
+13:36:54.811 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:36:54.858 -> mode:DIO, clock div:1
+13:36:54.858 -> load:0x3fff0030,len:1344
+13:36:54.858 -> load:0x40078000,len:13864
+13:36:54.858 -> load:0x40080400,len:3608
+13:36:54.858 -> entry 0x400805f0
+13:36:55.097 -> Creating Dir: Data/
+13:36:55.144 -> mkdir failed
+13:36:55.144 -> Appending to file: /Mak2_3.txt
+13:36:55.238 -> - message appended
+13:36:55.383 -> Data Saved!Now Reading:
+13:36:55.478 -> Reading file: /Mak2_3.txt
+13:36:55.572 -> - read from file:
+13:36:55.572 -> 
+13:36:55.572 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:36:55.572 -> 
+13:36:55.572 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:55.620 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:55.620 -> 
+13:36:55.620 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:55.620 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:55.620 -> 
+13:36:55.620 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:55.620 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:55.668 -> 
+13:36:55.668 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:55.668 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:55.668 -> 
+13:36:55.668 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:55.668 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:55.716 -> 
+13:36:55.716 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:55.716 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:55.716 -> 
+13:36:55.716 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:55.716 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:55.716 -> 
+13:36:55.716 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:55.763 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:55.763 -> 
+13:36:55.763 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:55.763 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:55.763 -> 
+13:36:55.763 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:55.763 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:55.810 -> 
+13:36:55.810 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:55.810 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:55.810 -> 
+13:36:55.810 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:55.810 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:55.810 -> 
+13:36:55.810 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:55.858 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:55.858 -> 
+13:36:55.858 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:55.858 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:55.858 -> 
+13:36:55.858 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:55.858 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:55.905 -> 
+13:36:55.905 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:55.905 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:55.905 -> 
+13:36:55.905 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:55.905 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:55.905 -> 
+13:36:55.905 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:55.952 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:55.952 -> 
+13:36:55.952 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:55.952 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:55.952 -> 
+13:36:55.952 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:56.000 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:56.000 -> 
+13:36:56.000 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:56.000 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:56.906 -> ets Jun  8 2016 00:22:57
+13:36:56.906 -> 
+13:36:56.906 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:36:56.906 -> configsip: 0, SPIWP:0xee
+13:36:56.906 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:36:56.906 -> mode:DIO, clock div:1
+13:36:56.906 -> load:0x3fff0030,len:1344
+13:36:56.906 -> load:0x40078000,len:13864
+13:36:56.906 -> load:0x40080400,len:3608
+13:36:56.906 -> entry 0x400805f0
+13:36:57.189 -> Creating Dir: Data/
+13:36:57.189 -> mkdir failed
+13:36:57.189 -> Appending to file: /Mak2_3.txt
+13:36:57.332 -> - message appended
+13:36:57.520 -> Data Saved!Now Reading:
+13:36:57.616 -> Reading file: /Mak2_3.txt
+13:36:57.663 -> - read from file:
+13:36:57.711 -> 
+13:36:57.711 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:36:57.711 -> 
+13:36:57.711 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:57.711 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:57.758 -> 
+13:36:57.758 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:57.758 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:57.758 -> 
+13:36:57.758 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:57.758 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:57.758 -> 
+13:36:57.758 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:57.806 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:57.806 -> 
+13:36:57.806 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:57.806 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:57.806 -> 
+13:36:57.806 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:57.806 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:57.852 -> 
+13:36:57.852 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:57.852 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:57.852 -> 
+13:36:57.852 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:57.852 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:57.900 -> 
+13:36:57.900 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:57.900 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:57.900 -> 
+13:36:57.900 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:57.900 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:57.900 -> 
+13:36:57.900 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:57.947 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:57.947 -> 
+13:36:57.947 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:57.947 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:57.947 -> 
+13:36:57.947 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:57.947 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:57.995 -> 
+13:36:57.995 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:57.995 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:57.995 -> 
+13:36:57.995 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:57.995 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:57.995 -> 
+13:36:57.995 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:58.042 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:58.042 -> 
+13:36:58.042 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:58.042 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:58.042 -> 
+13:36:58.042 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:58.042 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:58.089 -> 
+13:36:58.089 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:58.089 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:58.089 -> 
+13:36:58.089 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:58.089 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:58.137 -> 
+13:36:58.137 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:58.137 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:58.137 -> 
+13:36:58.137 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:58.137 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:59.040 -> ets Jun  8 2016 00:22:57
+13:36:59.040 -> 
+13:36:59.040 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:36:59.086 -> configsip: 0, SPIWP:0xee
+13:36:59.086 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:36:59.086 -> mode:DIO, clock div:1
+13:36:59.086 -> load:0x3fff0030,len:1344
+13:36:59.086 -> load:0x40078000,len:13864
+13:36:59.086 -> load:0x40080400,len:3608
+13:36:59.086 -> entry 0x400805f0
+13:36:59.371 -> Creating Dir: Data/
+13:36:59.371 -> mkdir failed
+13:36:59.371 -> Appending to file: /Mak2_3.txt
+13:36:59.514 -> - message appended
+13:36:59.704 -> Data Saved!Now Reading:
+13:36:59.801 -> Reading file: /Mak2_3.txt
+13:36:59.896 -> - read from file:
+13:36:59.943 -> 
+13:36:59.943 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:36:59.943 -> 
+13:36:59.943 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:59.943 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:59.943 -> 
+13:36:59.943 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:59.990 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:59.990 -> 
+13:36:59.990 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:59.990 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:36:59.990 -> 
+13:36:59.990 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:36:59.990 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:00.038 -> 
+13:37:00.038 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:00.038 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:00.038 -> 
+13:37:00.038 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:00.038 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:00.038 -> 
+13:37:00.038 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:00.085 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:00.085 -> 
+13:37:00.085 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:00.085 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:00.085 -> 
+13:37:00.085 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:00.085 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:00.133 -> 
+13:37:00.133 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:00.133 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:00.133 -> 
+13:37:00.133 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:00.133 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:00.180 -> 
+13:37:00.180 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:00.180 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:00.180 -> 
+13:37:00.180 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:00.180 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:00.180 -> 
+13:37:00.180 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:00.228 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:00.228 -> 
+13:37:00.228 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:00.228 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:00.228 -> 
+13:37:00.228 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:00.228 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:00.275 -> 
+13:37:00.275 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:00.275 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:00.275 -> 
+13:37:00.275 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:00.275 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:00.275 -> 
+13:37:00.275 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:00.323 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:00.323 -> 
+13:37:00.323 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:00.323 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:00.323 -> 
+13:37:00.323 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:00.323 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:00.370 -> 
+13:37:00.370 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:00.370 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:00.370 -> 
+13:37:00.370 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:00.370 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:01.513 -> ets Jun  8 2016 00:22:57
+13:37:01.513 -> 
+13:37:01.513 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:37:01.513 -> configsip: 0, SPIWP:0xee
+13:37:01.513 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:37:01.513 -> mode:DIO, clock div:1
+13:37:01.513 -> load:0x3fff0030,len:1344
+13:37:01.513 -> load:0x40078000,len:13864
+13:37:01.513 -> load:0x40080400,len:3608
+13:37:01.513 -> entry 0x400805f0
+13:37:01.800 -> Creating Dir: Data/
+13:37:01.800 -> mkdir failed
+13:37:01.800 -> Appending to file: /Mak2_3.txt
+13:37:01.941 -> - message appended
+13:37:02.226 -> Data Saved!Now Reading:
+13:37:02.651 -> Reading file: /Mak2_3.txt
+13:37:02.651 -> - read from file:
+13:37:02.651 -> 
+13:37:02.651 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:37:02.699 -> 
+13:37:02.699 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:02.699 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:02.699 -> 
+13:37:02.699 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:02.699 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:02.699 -> 
+13:37:02.699 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:02.747 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:02.747 -> 
+13:37:02.747 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:02.747 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:02.747 -> 
+13:37:02.747 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:02.747 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:02.794 -> 
+13:37:02.794 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:02.794 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:02.794 -> 
+13:37:02.794 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:02.794 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:02.794 -> 
+13:37:02.794 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:02.842 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:02.842 -> 
+13:37:02.842 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:02.842 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:02.842 -> 
+13:37:02.842 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:02.890 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:02.890 -> 
+13:37:02.890 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:02.890 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:02.890 -> 
+13:37:02.890 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:02.890 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:02.937 -> 
+13:37:02.937 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:02.937 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:02.937 -> 
+13:37:02.937 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:02.937 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:02.937 -> 
+13:37:02.937 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:02.986 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:02.986 -> 
+13:37:02.986 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:02.986 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:02.986 -> 
+13:37:02.986 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:02.986 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:03.033 -> 
+13:37:03.033 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:03.033 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:03.033 -> 
+13:37:03.033 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:03.033 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:03.033 -> 
+13:37:03.033 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:03.081 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:03.081 -> 
+13:37:03.081 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:03.081 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:03.081 -> 
+13:37:03.081 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:03.081 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:03.129 -> 
+13:37:03.129 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:03.129 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:03.129 -> 
+13:37:03.129 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:03.129 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:04.080 -> ets Jun  8 2016 00:22:57
+13:37:04.080 -> 
+13:37:04.080 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:37:04.127 -> configsip: 0, SPIWP:0xee
+13:37:04.127 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:37:04.127 -> mode:DIO, clock div:1
+13:37:04.127 -> load:0x3fff0030,len:1344
+13:37:04.127 -> load:0x40078000,len:13864
+13:37:04.127 -> load:0x40080400,len:3608
+13:37:04.127 -> entry 0x400805f0
+13:37:04.362 -> Creating Dir: Data/
+13:37:04.362 -> mkdir failed
+13:37:04.362 -> Appending to file: /Mak2_3.txt
+13:37:04.410 -> - message appended
+13:37:04.503 -> Data Saved!Now Reading:
+13:37:04.598 -> Reading file: /Mak2_3.txt
+13:37:04.598 -> - read from file:
+13:37:04.598 -> 
+13:37:04.598 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:37:04.646 -> 
+13:37:04.646 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:04.646 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:04.646 -> 
+13:37:04.646 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:04.646 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:04.646 -> 
+13:37:04.646 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:04.694 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:04.694 -> 
+13:37:04.694 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:04.694 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:04.694 -> 
+13:37:04.694 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:04.694 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:04.741 -> 
+13:37:04.741 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:04.741 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:04.741 -> 
+13:37:04.741 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:04.741 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:04.741 -> 
+13:37:04.788 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:04.788 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:04.788 -> 
+13:37:04.788 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:04.788 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:04.788 -> 
+13:37:04.788 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:04.836 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:04.836 -> 
+13:37:04.836 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:04.836 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:04.836 -> 
+13:37:04.836 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:04.836 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:04.884 -> 
+13:37:04.884 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:04.884 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:04.884 -> 
+13:37:04.884 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:04.884 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:04.884 -> 
+13:37:04.884 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:04.931 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:04.931 -> 
+13:37:04.931 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:04.931 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:04.931 -> 
+13:37:04.931 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:04.931 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:04.979 -> 
+13:37:04.979 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:04.979 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:04.979 -> 
+13:37:04.979 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:04.979 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:04.979 -> 
+13:37:04.979 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:05.027 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:05.027 -> 
+13:37:05.027 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:05.027 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:05.027 -> 
+13:37:05.027 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:05.027 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:05.073 -> 
+13:37:05.073 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:05.073 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:05.073 -> 
+13:37:05.073 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:05.073 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:05.121 -> 
+13:37:05.121 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:05.121 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:06.071 -> ets Jun  8 2016 00:22:57
+13:37:06.118 -> 
+13:37:06.118 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:37:06.118 -> configsip: 0, SPIWP:0xee
+13:37:06.118 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:37:06.118 -> mode:DIO, clock div:1
+13:37:06.118 -> load:0x3fff0030,len:1344
+13:37:06.118 -> load:0x40078000,len:13864
+13:37:06.118 -> load:0x40080400,len:3608
+13:37:06.118 -> entry 0x400805f0
+13:37:06.356 -> Creating Dir: Data/
+13:37:06.356 -> mkdir failed
+13:37:06.356 -> Appending to file: /Mak2_3.txt
+13:37:06.404 -> - message appended
+13:37:06.547 -> Data Saved!Now Reading:
+13:37:06.642 -> Reading file: /Mak2_3.txt
+13:37:06.690 -> - read from file:
+13:37:06.690 -> 
+13:37:06.690 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:37:06.690 -> 
+13:37:06.690 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:06.737 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:06.737 -> 
+13:37:06.737 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:06.737 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:06.737 -> 
+13:37:06.737 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:06.737 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:06.783 -> 
+13:37:06.783 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:06.783 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:06.783 -> 
+13:37:06.783 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:06.783 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:06.831 -> 
+13:37:06.831 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:06.831 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:06.831 -> 
+13:37:06.831 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:06.831 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:06.831 -> 
+13:37:06.831 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:06.878 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:06.878 -> 
+13:37:06.878 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:06.878 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:06.878 -> 
+13:37:06.878 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:06.878 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:06.927 -> 
+13:37:06.927 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:06.927 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:06.927 -> 
+13:37:06.927 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:06.927 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:06.927 -> 
+13:37:06.927 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:06.974 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:06.974 -> 
+13:37:06.974 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:06.974 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:06.974 -> 
+13:37:06.974 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:06.974 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:07.022 -> 
+13:37:07.022 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:07.022 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:07.022 -> 
+13:37:07.022 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:07.022 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:07.022 -> 
+13:37:07.022 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:07.070 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:07.070 -> 
+13:37:07.070 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:07.070 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:07.070 -> 
+13:37:07.070 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:07.070 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:07.118 -> 
+13:37:07.118 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:07.118 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:07.118 -> 
+13:37:07.118 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:07.118 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:07.118 -> 
+13:37:07.118 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:07.165 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:07.165 -> 
+13:37:07.165 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:07.165 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:07.165 -> 
+13:37:07.165 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:07.212 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:07.212 -> 
+13:37:07.212 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:07.212 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:08.258 -> ets Jun  8 2016 00:22:57
+13:37:08.258 -> 
+13:37:08.258 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:37:08.258 -> configsip: 0, SPIWP:0xee
+13:37:08.258 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:37:08.304 -> mode:DIO, clock div:1
+13:37:08.304 -> load:0x3fff0030,len:1344
+13:37:08.304 -> load:0x40078000,len:13864
+13:37:08.304 -> load:0x40080400,len:3608
+13:37:08.304 -> entry 0x400805f0
+13:37:08.541 -> Creating Dir: Data/
+13:37:08.541 -> mkdir failed
+13:37:08.541 -> Appending to file: /Mak2_3.txt
+13:37:08.637 -> - message appended
+13:37:08.779 -> Data Saved!Now Reading:
+13:37:08.874 -> Reading file: /Mak2_3.txt
+13:37:08.921 -> - read from file:
+13:37:08.921 -> 
+13:37:08.921 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:37:08.921 -> 
+13:37:08.921 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:08.968 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:08.968 -> 
+13:37:08.968 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:08.968 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:08.968 -> 
+13:37:08.968 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:08.968 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.016 -> 
+13:37:09.016 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.016 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.016 -> 
+13:37:09.016 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.016 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.016 -> 
+13:37:09.016 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.062 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.062 -> 
+13:37:09.062 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.062 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.062 -> 
+13:37:09.062 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.062 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.109 -> 
+13:37:09.109 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.109 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.109 -> 
+13:37:09.109 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.109 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.157 -> 
+13:37:09.157 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.157 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.157 -> 
+13:37:09.157 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.157 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.157 -> 
+13:37:09.157 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.204 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.204 -> 
+13:37:09.204 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.204 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.204 -> 
+13:37:09.204 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.204 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.251 -> 
+13:37:09.251 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.251 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.251 -> 
+13:37:09.251 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.251 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.251 -> 
+13:37:09.251 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.299 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.299 -> 
+13:37:09.299 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.299 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.299 -> 
+13:37:09.299 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.299 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.347 -> 
+13:37:09.347 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.347 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.347 -> 
+13:37:09.347 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.347 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.347 -> 
+13:37:09.347 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.394 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.394 -> 
+13:37:09.394 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.394 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.394 -> 
+13:37:09.394 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.394 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.440 -> 
+13:37:09.440 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.440 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:09.440 -> 
+13:37:09.440 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:09.440 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:10.910 -> ets Jun  8 2016 00:22:57
+13:37:10.910 -> 
+13:37:10.910 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:37:10.910 -> configsip: 0, SPIWP:0xee
+13:37:10.910 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:37:10.910 -> mode:DIO, clock div:1
+13:37:10.910 -> load:0x3fff0030,len:1344
+13:37:10.910 -> load:0x40078000,len:13864
+13:37:10.910 -> load:0x40080400,len:3608
+13:37:10.910 -> entry 0x400805f0
+13:37:11.195 -> Creating Dir: Data/
+13:37:11.195 -> mkdir failed
+13:37:11.195 -> Appending to file: /Mak2_3.txt
+13:37:11.290 -> - message appended
+13:37:11.433 -> Data Saved!Now Reading:
+13:37:11.529 -> Reading file: /Mak2_3.txt
+13:37:11.576 -> - read from file:
+13:37:11.623 -> 
+13:37:11.623 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:37:11.623 -> 
+13:37:11.623 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:11.623 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:11.671 -> 
+13:37:11.671 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:11.671 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:11.671 -> 
+13:37:11.671 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:11.671 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:11.671 -> 
+13:37:11.671 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:11.718 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:11.718 -> 
+13:37:11.718 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:11.718 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:11.718 -> 
+13:37:11.718 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:11.718 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:11.765 -> 
+13:37:11.765 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:11.765 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:11.765 -> 
+13:37:11.765 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:11.765 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:11.765 -> 
+13:37:11.765 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:11.812 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:11.812 -> 
+13:37:11.812 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:11.812 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:11.812 -> 
+13:37:11.812 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:11.812 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:11.860 -> 
+13:37:11.860 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:11.860 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:11.860 -> 
+13:37:11.860 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:11.860 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:11.907 -> 
+13:37:11.907 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:11.907 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:11.907 -> 
+13:37:11.907 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:11.907 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:11.907 -> 
+13:37:11.907 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:11.955 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:11.955 -> 
+13:37:11.955 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:11.955 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:11.955 -> 
+13:37:11.955 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:11.955 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:12.002 -> 
+13:37:12.002 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:12.002 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:12.002 -> 
+13:37:12.002 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:12.002 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:12.002 -> 
+13:37:12.002 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:12.051 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:12.051 -> 
+13:37:12.051 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:12.051 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:12.051 -> 
+13:37:12.051 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:12.051 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:12.098 -> 
+13:37:12.098 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:12.098 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:12.098 -> 
+13:37:12.098 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:12.098 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:12.098 -> 
+13:37:12.098 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:12.146 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:12.146 -> 
+13:37:12.146 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:12.146 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:12.146 -> 
+13:37:12.146 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:12.146 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:13.332 -> ets Jun  8 2016 00:22:57
+13:37:13.332 -> 
+13:37:13.332 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:37:13.332 -> configsip: 0, SPIWP:0xee
+13:37:13.332 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:37:13.332 -> mode:DIO, clock div:1
+13:37:13.332 -> load:0x3fff0030,len:1344
+13:37:13.332 -> load:0x40078000,len:13864
+13:37:13.332 -> load:0x40080400,len:3608
+13:37:13.332 -> entry 0x400805f0
+13:37:13.616 -> Creating Dir: Data/
+13:37:13.616 -> mkdir failed
+13:37:13.616 -> Appending to file: /Mak2_3.txt
+13:37:13.710 -> - message appended
+13:37:13.901 -> Data Saved!Now Reading:
+13:37:13.995 -> Reading file: /Mak2_3.txt
+13:37:14.090 -> - read from file:
+13:37:14.090 -> 
+13:37:14.090 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:37:14.137 -> 
+13:37:14.137 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.137 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.137 -> 
+13:37:14.137 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.137 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.137 -> 
+13:37:14.137 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.185 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.185 -> 
+13:37:14.185 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.185 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.185 -> 
+13:37:14.185 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.185 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.232 -> 
+13:37:14.232 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.232 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.232 -> 
+13:37:14.232 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.232 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.232 -> 
+13:37:14.232 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.279 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.279 -> 
+13:37:14.279 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.279 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.279 -> 
+13:37:14.279 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.279 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.326 -> 
+13:37:14.326 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.326 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.326 -> 
+13:37:14.326 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.326 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.374 -> 
+13:37:14.374 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.374 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.374 -> 
+13:37:14.374 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.374 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.374 -> 
+13:37:14.374 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.422 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.422 -> 
+13:37:14.422 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.422 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.422 -> 
+13:37:14.422 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.422 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.470 -> 
+13:37:14.470 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.470 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.470 -> 
+13:37:14.470 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.470 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.470 -> 
+13:37:14.470 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.517 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.517 -> 
+13:37:14.517 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.517 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.517 -> 
+13:37:14.517 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.517 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.565 -> 
+13:37:14.565 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.565 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.565 -> 
+13:37:14.565 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.565 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.565 -> 
+13:37:14.565 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.612 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.612 -> 
+13:37:14.612 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.612 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.612 -> 
+13:37:14.612 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.659 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.659 -> 
+13:37:14.659 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.659 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:14.659 -> 
+13:37:14.659 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:14.659 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:15.657 -> ets Jun  8 2016 00:22:57
+13:37:15.657 -> 
+13:37:15.657 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+13:37:15.657 -> configsip: 0, SPIWP:0xee
+13:37:15.657 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+13:37:15.657 -> mode:DIO, clock div:1
+13:37:15.657 -> load:0x3fff0030,len:1344
+13:37:15.657 -> load:0x40078000,len:13864
+13:37:15.657 -> load:0x40080400,len:3608
+13:37:15.657 -> entry 0x400805f0
+13:37:15.941 -> Creating Dir: Data/
+13:37:15.941 -> mkdir failed
+13:37:15.941 -> Appending to file: /Mak2_3.txt
+13:37:16.036 -> - message appended
+13:37:16.273 -> Data Saved!Now Reading:
+13:37:16.368 -> Reading file: /Mak2_3.txt
+13:37:16.464 -> - read from file:
+13:37:16.464 -> 
+13:37:16.464 -> Cooking Round: 5,  Cooking Duration: XYZ2
+13:37:16.512 -> 
+13:37:16.512 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.512 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.512 -> 
+13:37:16.512 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.512 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.512 -> 
+13:37:16.512 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.559 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.559 -> 
+13:37:16.559 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.559 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.559 -> 
+13:37:16.559 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.607 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.607 -> 
+13:37:16.607 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.607 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.607 -> 
+13:37:16.607 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.607 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.654 -> 
+13:37:16.654 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.654 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.654 -> 
+13:37:16.654 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.654 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.654 -> 
+13:37:16.654 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.702 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.702 -> 
+13:37:16.702 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.702 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.702 -> 
+13:37:16.702 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.702 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.750 -> 
+13:37:16.750 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.750 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.750 -> 
+13:37:16.750 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.750 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.750 -> 
+13:37:16.750 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.796 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.796 -> 
+13:37:16.796 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.796 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.796 -> 
+13:37:16.796 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.796 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.843 -> 
+13:37:16.843 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.843 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.843 -> 
+13:37:16.843 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.843 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.890 -> 
+13:37:16.890 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.890 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.890 -> 
+13:37:16.890 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.890 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.890 -> 
+13:37:16.890 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.938 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.938 -> 
+13:37:16.938 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.938 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.938 -> 
+13:37:16.938 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.938 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.985 -> 
+13:37:16.985 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.985 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.985 -> 
+13:37:16.985 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:16.985 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:16.985 -> 
+13:37:16.985 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:17.033 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:17.033 -> 
+13:37:17.033 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:17.033 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:17.033 -> 
+13:37:17.033 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:17.033 -> Cooking Round: 6,  Cooking Duration: XYZ
+13:37:17.080 -> 
+13:37:17.080 -> Cooking Round: 5,  Cooking Duration: XYZ
+13:37:17.080 -> Cooking Round: 6,  Cooking Duration: XYZ
